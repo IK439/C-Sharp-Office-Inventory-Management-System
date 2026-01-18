@@ -11,7 +11,7 @@ This program manages a simple inventory list. It demonstrates adding, removing, 
 - **String Interpolation**: Cleaner, readable output formatting.
 
 ## Example Output
-```text
+```
 Inventory List:
 - Printer
 - Laptop
